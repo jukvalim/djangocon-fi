@@ -1,0 +1,210 @@
+body {
+	font-family: Georgia;
+	font-size: 10pt;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;	
+}
+
+address {
+	float: left;
+}
+
+a, a:link, a:visited {
+	color: #000;
+}
+a:hover, a:active {
+	background: #ccc;
+	color: rgb(50, 99, 66);
+}
+
+#header a,#header a:link,#header a:visited {
+	color: #fff;
+}
+#header a:hover,#header a:active {
+	background: #fff;
+	color: rgb(50, 99, 66);
+}
+
+.logos a:hover, .logos a:active {
+	background: #fff;
+}
+
+.logos a {
+	float: left;
+	width: 200px;
+	height: 80px;
+	margin: 10px;
+	display: block;
+	text-align: center;
+}
+
+div#background {
+	width: 100%;
+	height: 460px;
+	background: rgb(18, 40, 25);
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	z-index: -1;
+	top: 0;
+	left: 0;
+}
+
+div#wrapper {
+	width: 730px; 
+	margin: 0 auto 0 auto;
+}
+
+div#header {
+	color: #fff;
+	height: 330px;
+	padding-top: 50px;	
+	padding-left: 350px;
+	margin-bottom: 100px;
+	margin-left: -120px;
+	width: 550px;
+	float: left;
+	background: url('/tausta.png') no-repeat rgb(18, 40, 25);
+	font-family: Georgia, "Courier new", Courier, serif;
+	/*font-family: Helvetica, Verdana, Arial;*/
+	letter-spacing: 0.05em;
+	word-spacing: 0.3em;
+
+}
+
+div#languages {
+	position:absolute;
+	top:10px;
+	left:0px;
+	width:1020px;
+	text-align: right;
+}
+
+div#some {
+	width: 500px;
+	height: 30px;
+	background: #eee;
+	margin-top: -20px;
+	margin-bottom: 30px;
+}
+
+div.actions {
+	width: 400px;
+	margin: 0;
+	padding-top: 15px;
+}
+div.section {
+	float: left;
+	width: 730px;	
+}
+
+div.text {
+	width: 500px;
+	margin-bottom: 30px;
+	float: right;	
+}
+
+div.speakers img {
+	float: left;
+	margin-right: 10px;
+}
+div.speakers p {
+	float: left;
+	display: block;
+}
+
+p {
+	margin-bottom: 10px;
+	font-size: 1.1em;
+	line-height: 1.4em;
+	color: #333;
+}
+
+#header p {
+	font-size: 1.3em;
+	line-height: 1.2em;
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+h1 {
+	font-size: 2.8em;
+	font-weight: normal;
+	margin-bottom: 25px;
+	color: #fff;	
+}
+
+h2 {
+	font-size: 1.5em;
+	line-height: 1.3em;
+	font-weight: normal;
+	margin-bottom: 25px;
+	color: #fff;
+}
+
+.section h2 {
+	float: left;
+	color: #000;
+	font-size: 1.8em;
+	line-height: 100%;
+	font-family: "Times new roman", Times;
+	text-align: right;
+	width: 200px;
+}
+
+.section h3 {
+	font-size: 1.4em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.section h4 {
+	font-size: 1.3em;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+a.button {
+	background: #fff;
+	display: block;
+	float: left;
+	color: #000;
+	text-align: left;
+	padding: 10px;
+	font-size: 1.1em;
+	font-weight: normal;
+	margin: 0 10px 0 0;
+	width: 150px;
+	-webkit-border-radius: 3px;
+	text-decoration: none;
+	font-family: "Courier new", Courier, serif;
+}
+
+a.inacative {
+	background: #ccc;
+}
+
+span.sub {
+	font-weight: normal;
+	color: #777;
+	margin-top: 3px;
+	display: block;
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+a.button:active {
+	-webkit-box-shadow: inset 0 1px 3px #0ff;
+}
+
+a.button:hover {
+	background: #0ff;
+}
+

@@ -1,0 +1,1006 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<zuiprezi>
+  <version>3</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds height="522460.660341556" width="434813.1076850095" x="-153541.85175521823" y="-67263.75711574953" />
+    </settings>
+    <object class="body" id="5_11009944" r="0" s="117.69261932373048" type="label" x="-658.85" y="-22382.8">
+      <textfield>
+        <x>-173.05</x>
+        <y>-16.4</y>
+        <text>Idea for a new website, now what?</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Idea for a new website, now what?</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="21_11009944" r="0" s="60.23840925815813" type="button" x="-922.4" y="1052.1">
+      <type>bracket<url /></type>
+      <size>
+        <w>788</w>
+        <h>376</h>
+      </size>
+    </object>
+    <object class="bracket" id="13_11009944" r="0" s="40.15655971643102" type="button" x="-1449.65" y="-2991.65">
+      <type>bracket<url /></type>
+      <size>
+        <w>619</w>
+        <h>275</h>
+      </size>
+    </object>
+    <object class="body" id="6_11009944" r="0" s="64" type="label" x="-2616.2" y="-6382.95">
+      <textfield>
+        <x>-37.05</x>
+        <y>-16.4</y>
+        <text>Money</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Money</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="7_11009944" r="0" s="64" type="label" x="-2600.1" y="-3047.9">
+      <textfield>
+        <x>-28.55</x>
+        <y>-16.4</y>
+        <text>Skills</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Skills</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="8_11009944" r="0" s="64" type="label" x="-2594.1" y="138.55">
+      <textfield>
+        <x>-28.65</x>
+        <y>-16.4</y>
+        <text>Time</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Time</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="9_11009944" r="0" s="64" type="label" x="-6653.95" y="-3288.85">
+      <textfield>
+        <x>-8.2</x>
+        <y>-16.4</y>
+        <text>+</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">+</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="10_11009944" r="0" s="64" type="label" x="2060.05" y="-3047.9">
+      <textfield>
+        <x>-8.2</x>
+        <y>-16.4</y>
+        <text>=</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">=</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="11_11009944" r="0" s="64" type="label" x="7302.5" y="-3047.9">
+      <textfield>
+        <x>-45.45</x>
+        <y>-16.4</y>
+        <text>Business</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Business</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="12_11009944" r="0" s="64" type="label" x="-10151.65" y="-3288.8">
+      <textfield>
+        <x>-23.4</x>
+        <y>-16.4</y>
+        <text>Idea</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Idea</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="15_11009944" r="-57.427535149792845" s="31.810159002752503" type="shape" x="-13760.35" y="3257.3">
+      <geom type="arrow">
+        <sp>-90.9272626818604 0</sp>
+        <ep>90.9272626818604 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object id="16_11009944" r="89.99999999999999" s="32" type="shape" x="-2188.5" y="3943.35">
+      <geom type="arrow">
+        <sp>65.29245867031179 0</sp>
+        <ep>-65.29245867031179 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object id="17_11009944" r="66.20913186226917" s="31.844575270132353" type="shape" x="10393.8" y="2980.75">
+      <geom type="arrow">
+        <sp>94.62616806433634 0</sp>
+        <ep>-94.62616806433635 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object class="body" id="18_11009944" r="0" s="80.10751342773438" type="label" x="-17939.45" y="7374.8">
+      <textfield>
+        <x>-45.5</x>
+        <y>-16.4</y>
+        <text>Plentiful</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Plentiful</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="19_11009944" r="0" s="64" type="label" x="-1950.25" y="7376.75">
+      <textfield>
+        <x>-91.5</x>
+        <y>-16.4</y>
+        <text>Not enough these</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Not enough these</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="20_11009944" r="0" s="64" type="label" x="12022" y="7376.55">
+      <textfield>
+        <x>-80.4</x>
+        <y>-16.4</y>
+        <text>Rarely succeeds</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Rarely succeeds</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="29_11009944" r="0" s="141.90846487022114" type="button" x="2210.6" y="28723.55">
+      <type>bracket<url /></type>
+      <size>
+        <w>417</w>
+        <h>166</h>
+      </size>
+    </object>
+    <object class="strong" id="22_11009944" r="0" s="128" type="label" x="741.25" y="20216.75">
+      <textfield>
+        <x>-81.4</x>
+        <y>-15.25</y>
+        <text>Django + Pinax</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#288ACC" FACE="LiberationSerif-Bold" KERNING="0" LETTERSPACING="0" SIZE="24">Django + Pinax</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="23_11009944" r="0" s="128" type="label" x="-7588.55" y="25581.65">
+      <textfield>
+        <x>-133.8</x>
+        <y>-16.4</y>
+        <text>- Don't reinvent the wheel</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Don't reinvent the wheel</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="24_11009944" r="0" s="128" type="label" x="2797.75" y="29653.95">
+      <textfield>
+        <x>-214.95</x>
+        <y>-16.4</y>
+        <text>- It's better to modify old than make a new</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- It's better to modify old than make a new</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="25_11009944" r="0" s="128" type="label" x="-890.35" y="33979.25">
+      <textfield>
+        <x>-186.15</x>
+        <y>-16.4</y>
+        <text>- Great artists steal (use open source)</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Great artists steal (use open source)</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="45_11009944" r="0" s="272.91020608793286" type="button" x="191051.1" y="42939.75">
+      <type>bracket<url /></type>
+      <size>
+        <w>203</w>
+        <h>131</h>
+      </size>
+    </object>
+    <object class="head" id="30_11009944" r="0" s="208.89747619628903" type="label" x="189576.55" y="35676.15">
+      <textfield>
+        <x>-46.95</x>
+        <y>-15.25</y>
+        <text>We used:</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">We used:</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="43_11009944" r="0" s="327.49224853515625" type="button" x="17662" y="88588.3">
+      <type>bracket<url /></type>
+      <size>
+        <w>449</w>
+        <h>297</h>
+      </size>
+    </object>
+    <object id="35_11009944" r="0" s="78.91787719726563" type="image" x="17671.65" y="80206.8">
+      <source h="940" w="1500">39808283.png<url>39808283.png</url>
+      </source>
+    <resource><id>
+        39808283
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/0/8ab13431ed3532c14f9c7afb8e0e88e78b5d4.png</url></resource></object>
+    <object id="38_11009944" r="0" s="145.55210876464844" type="marker" x="54693.8" y="86335.05">
+      <width>374.2<url /></width>
+      <height>404.7</height>
+      <offsetx>336</offsetx>
+      <offsety>585.7</offsety>
+      <p x="237.45" y="418.5" />
+      <p x="179.4" y="470.5" />
+      <p x="161.4" y="598.6" />
+      <p x="176.4" y="645.6" />
+      <p x="219.05" y="758.45" />
+      <p x="276.15" y="771.45" />
+      <p x="404.25" y="727.4" />
+      <p x="459.25" y="675.4" />
+      <p x="504.3" y="569.35" />
+      <p x="505.3" y="498.3" />
+      <p x="457.25" y="436.25" />
+      <p x="366.2" y="397.25" />
+      <p x="258.15" y="404.25" />
+      <p x="241.15" y="410.25" />
+    </object>
+    <object id="39_11009944" r="53.91346107574542" s="127.20282807866616" type="shape" x="63817.35" y="114400.7">
+      <geom type="arrow">
+        <sp>60.98889339148327 0</sp>
+        <ep>-60.98889339148327 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object id="40_11009944" r="-68.21549129877803" s="127.42190191296886" type="shape" x="-16093.7" y="116609.2">
+      <geom type="arrow">
+        <sp>-53.62518638266498 0</sp>
+        <ep>53.62518638266498 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object class="body" id="42_11009944" r="0" s="256" type="label" x="69606.5" y="124816.95">
+      <textfield>
+        <x>-48.7</x>
+        <y>-16.4</y>
+        <text>Our stuff</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Our stuff</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="31_11009944" r="0" s="127.99998474121094" type="label" x="189582.5" y="51394.4">
+      <textfield>
+        <x>-174.1</x>
+        <y>-74</y>
+        <text>- Authentication, account, profiles
+- Mailer, analytics, pagination
+etc. small apps
+- Forum (snapboard)
+- (Wiki)</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Authentication, account, profiles</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Mailer, analytics, pagination</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">etc. small apps</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Forum (snapboard)</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- (Wiki)</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="41_11009944" r="0" s="256" type="label" x="-19165.65" y="127300.05">
+      <textfield>
+        <x>-70.85</x>
+        <y>-16.4</y>
+        <text>Pinax/Django</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Pinax/Django</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="48_11009944" r="0" s="325.183349609375" type="button" x="194450.75" y="100092.6">
+      <type>bracket<url /></type>
+      <size>
+        <w>534</w>
+        <h>169</h>
+      </size>
+    </object>
+    <object class="body" id="46_11009944" r="0" s="256" type="label" x="171813.6" y="82097.5">
+      <textfield>
+        <x>-141.55</x>
+        <y>-16.4</y>
+        <text>We didn't use, but still cool:</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">We didn't use, but still cool:</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="47_11009944" r="0" s="256" type="label" x="172591.85" y="107701.6">
+      <textfield>
+        <x>-169.8</x>
+        <y>-68.25</y>
+        <text>- Tagging, Authentication modules
+- Photologue
+- Tribes (like facebook groups)
+- Activity streams, private betas,
+waiting lists</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Tagging, Authentication modules</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Photologue</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Tribes (like facebook groups)</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Activity streams, private betas,</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">waiting lists</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="51_11009944" r="0" s="180.69821619983225" type="button" x="161540.85" y="155412.65">
+      <type>bracket<url /></type>
+      <size>
+        <w>419</w>
+        <h>210</h>
+      </size>
+    </object>
+    <object class="head" id="49_11009944" r="0" s="256" type="label" x="162373.6" y="146369.75">
+      <textfield>
+        <x>-77.55</x>
+        <y>-15.25</y>
+        <text>Most awesome:</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Most awesome:</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="50_11009944" r="0" s="256" type="label" x="160065.35" y="159160.15">
+      <textfield>
+        <x>-115.5</x>
+        <y>-28.5</y>
+        <text>- Django-extensions
+- Django-debug-toolbar</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Django-extensions</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Django-debug-toolbar</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="71_11009944" r="0" s="173.14811492408734" type="button" x="-5868.75" y="180293.35">
+      <type>bracket<url /></type>
+      <size>
+        <w>553</w>
+        <h>290</h>
+      </size>
+    </object>
+    <object class="head" id="52_11009944" r="0" s="256" type="label" x="-7313.95" y="163206.4">
+      <textfield>
+        <x>-45.25</x>
+        <y>-15.25</y>
+        <text>Timeline</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Timeline</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="53_11009944" r="0" s="128" type="label" x="-37072.7" y="172630.35">
+      <textfield>
+        <x>-22.6</x>
+        <y>-15.25</y>
+        <text>Idea</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Idea</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="54_11009944" r="0" s="128" type="label" x="-27234.4" y="186673.25">
+      <textfield>
+        <x>-64.2</x>
+        <y>-15.25</y>
+        <text>MVP release</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">MVP release</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="55_11009944" r="134.88110575980122" s="63.585507921965906" type="shape" x="-38178.5" y="176822.15">
+      <geom type="arrow">
+        <sp>-32.005321644387784 0</sp>
+        <ep>32.005321644387784 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object class="head" id="56_11009944" r="0" s="128" type="label" x="-39254.85" y="180914.1">
+      <textfield>
+        <x>-87.85</x>
+        <y>-15.25</y>
+        <text>Intensive 2 weeks</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Intensive 2 weeks</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="57_11009944" r="0" s="128" type="label" x="-7145.75" y="171920.7">
+      <textfield>
+        <x>-89.85</x>
+        <y>-15.25</y>
+        <text>Iterate 3-4 months</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Iterate 3-4 months</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="58_11009944" r="-52.900331960470126" s="63.61584356887722" type="shape" x="-18237.5" y="179336">
+      <geom type="arrow">
+        <sp>-81.78553642488647 0</sp>
+        <ep>81.78553642488646 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object id="59_11009944" r="45.11765708278353" s="63.68664694782833" type="shape" x="-260.4" y="180045.95">
+      <geom type="arrow">
+        <sp>-80.38252586188008 0</sp>
+        <ep>80.38252586188008 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object class="head" id="60_11009944" r="0" s="128" type="label" x="12203.4" y="185504.3">
+      <textfield>
+        <x>-176.05</x>
+        <y>-15.25</y>
+        <text>Develop business features - 2 weeks</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Develop business features - 2 weeks</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="61_11009944" r="134.8811159460711" s="63.585756059687235" type="shape" x="-2209.25" y="192630.3">
+      <geom type="arrow">
+        <sp>-90.13159966506475 0</sp>
+        <ep>90.13159966506475 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object class="head" id="64_11009944" r="0" s="128" type="label" x="-6954.35" y="198660.5">
+      <textfield>
+        <x>-136.8</x>
+        <y>-15.25</y>
+        <text>Sales / Lazy iteration / Hold</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Sales / Lazy iteration / Hold</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="73_11009944" r="0" s="540.8812516812569" type="button" x="127741.05" y="218489.4">
+      <type>bracket<url /></type>
+      <size>
+        <w>220</w>
+        <h>147</h>
+      </size>
+    </object>
+    <object class="head" id="65_11009944" r="0" s="256" type="label" x="127430.85" y="193642.05">
+      <textfield>
+        <x>-57.25</x>
+        <y>-15.25</y>
+        <text>Techniques</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Techniques</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="66_11009944" r="0" s="256" type="label" x="128466.8" y="226875">
+      <textfield>
+        <x>-199.65</x>
+        <y>-108</y>
+        <text>- Just get the shit done
+- No BDD, no TDD
+- No unit tests at all, ugly code
+- Agile
+- Deploy on home server first, later VPS,
+then dedicated server from Hetzner Online
+(cheapest!)</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Just get the shit done</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- No BDD, no TDD</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- No unit tests at all, ugly code</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Agile</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Deploy on home server first, later VPS,</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">then dedicated server from Hetzner Online</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">(cheapest!)</FONT>
+          </P>
+        </htmlText>
+        <w>399.3</w>
+        <h>216</h>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="77_11009944" r="0" s="618.2471903797642" type="button" x="-57096.7" y="260722">
+      <type>bracket<url /></type>
+      <size>
+        <w>312</w>
+        <h>134</h>
+      </size>
+    </object>
+    <object class="head" id="72_11009944" r="0" s="512" type="label" x="-68444.35" y="231367.15">
+      <textfield>
+        <x>-68.85</x>
+        <y>-15.25</y>
+        <text>Business stats</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Business stats</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="75_11009944" r="0" s="162.26437377929688" type="image" x="-61094.65" y="256971.5">
+      <source h="154" w="1060">39812550.png<url>39812550.png</url>
+      </source>
+    <resource><id>
+        39812550
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/4/2/12c57c6b20a58161959c1ede5d3ab795322fc.png</url></resource></object>
+    <object class="head" id="76_11009944" r="0" s="256" type="label" x="-75908.55" y="285647.8">
+      <textfield>
+        <x>-263.55</x>
+        <y>-41.75</y>
+        <text>- Revenue 500-1500 eur/month
+- 3k-6k daily visits
+- Most used rim/tire trading site in Finland (OK, LOL)</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Revenue 500-1500 eur/month</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- 3k-6k daily visits</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Most used rim/tire trading site in Finland (OK, LOL)</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="78_11009944" r="0" s="512" type="label" x="-68183.2" y="342089.35">
+      <textfield>
+        <x>-53.65</x>
+        <y>-15.25</y>
+        <text>Thank you</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Thank you</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="82_11009944" r="0" s="361.0857238769531" type="button" x="-67255.9" y="394827.2">
+      <type>bracket<url /></type>
+      <size>
+        <w>328</w>
+        <h>329</h>
+      </size>
+    </object>
+    <object id="80_11009944" r="0" s="412.7775268554687" type="image" x="-65261.2" y="393575.35">
+      <source h="192" w="220">39813860.jpg<url>39813860.jpg</url>
+      </source>
+    <resource><id>
+        39813860
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/6/4/1fbce18c4ebb0c72421066c3c17e09fa4a22a.jpg</url></resource></object>
+    <object class="head" id="81_11009944" r="0" s="512" type="label" x="-62367.85" y="447382.8">
+      <textfield>
+        <x>-55.25</x>
+        <y>-15.25</y>
+        <text>Questions?</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Questions?</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="83_11009944" r="0" s="256" type="label" x="22925.15" y="-63355.65">
+      <textfield>
+        <x>-222.1</x>
+        <y>-15.25</y>
+        <text>Kick-Start your web site with Pinax + Django</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Kick-Start your web site with Pinax + Django</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="head" id="84_11009944" r="0" s="192.71546936035156" type="label" x="24606.1" y="-47237.9">
+      <textfield>
+        <x>-147.4</x>
+        <y>-55</y>
+        <text>By: Jeremias Kangas
+Kangas Bros. Innovations Oy
+www.kangasbros.fi
+www.vannehaku.fi</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">By: Jeremias Kangas</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">Kangas Bros. Innovations Oy</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">www.kangasbros.fi</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT COLOR="#333333" FACE="LiberationSerif-Regular" KERNING="0" LETTERSPACING="0" SIZE="24">www.vannehaku.fi</FONT>
+          </P>
+        </htmlText>
+        <w>294.85</w>
+        <h>110</h>
+      <url /></textfield>
+    </object>
+    <object class="bracket" id="7_807361" r="0" s="59.30945480198889" type="button" x="-79049.8" y="9785.9">
+      <type>bracket<url /></type>
+      <size>
+        <w>886</w>
+        <h>506</h>
+      </size>
+    </object>
+    <object id="1_807361" r="0" s="40.9613037109375" type="image" x="-83601.75" y="10043.95">
+      <source h="705" w="1036">40087408.png<url>40087408.png</url>
+      </source>
+    <resource><id>
+        40087408
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/c/b772bd89ab80dab13df049a103e5408721362.png</url></resource></object>
+    <object class="body" id="2_807361" r="0" s="64" type="label" x="-58549.3" y="3126.5">
+      <textfield>
+        <x>-53.35</x>
+        <y>-45.2</y>
+        <text>1. Choose your car model</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">1. Choose your car model</FONT>
+          </P>
+        </htmlText>
+        <w>106.7</w>
+        <h>90.4</h>
+      <url /></textfield>
+    </object>
+    <object id="3_807361" r="-3.251121403701871" s="31.987792222319435" type="shape" x="-64141.4" y="2368">
+      <geom type="arrow">
+        <sp>43.99608647368536 0</sp>
+        <ep>-43.99608647368536 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object id="4_807361" r="-39.09427767693048" s="31.89787565306095" type="shape" x="-62983.45" y="11049.05">
+      <geom type="arrow">
+        <sp>95.14681090294091 0</sp>
+        <ep>-95.14681090294091 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object class="body" id="5_807361" r="0" s="64" type="label" x="-57254.05" y="9601">
+      <textfield>
+        <x>-49.45</x>
+        <y>-30.8</y>
+        <text>2. Results
+appear</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">2. Results</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">appear</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="6_807361" r="0" s="64" type="label" x="-58215.1" y="18409">
+      <textfield>
+        <x>-44.55</x>
+        <y>-16.4</y>
+        <text>3. Profit!</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">3. Profit!</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object id="8_807361" r="29.858898406109397" s="63.90961025011372" type="shape" x="-38030.85" y="183835.95">
+      <geom type="arrow">
+        <sp>-41.36085861052693 0</sp>
+        <ep>41.36085861052693 0</ep>
+        <t>8</t>
+      <url /></geom>
+    </object>
+    <object class="bracket" id="2_795455" r="0" s="164.26779080506194" type="button" x="117240.3" y="5820.85">
+      <type>bracket<url /></type>
+      <size>
+        <w>536</w>
+        <h>213</h>
+      </size>
+    </object>
+    <object class="body" id="0_795455" r="0" s="256" type="label" x="121472.1" y="-5458.55">
+      <textfield>
+        <x>-141.55</x>
+        <y>-16.4</y>
+        <text>Pinax is great for beginners!</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">Pinax is great for beginners!</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+    <object class="body" id="1_795455" r="0" s="256" type="label" x="117896.4" y="10250.1">
+      <textfield>
+        <x>-158.85</x>
+        <y>-30.8</y>
+        <text>- Standard project layout
+- Learn from others code, reuse</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Standard project layout</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT COLOR="#111111" FACE="calluna-regular" KERNING="0" LETTERSPACING="0" SIZE="24">- Learn from others code, reuse</FONT>
+          </P>
+        </htmlText>
+      <url /></textfield>
+    </object>
+  </zui-table>
+  <path>
+    <o>83_11009944</o>
+    <o>5_11009944</o>
+    <o>13_11009944</o>
+    <o>21_11009944</o>
+    <o>29_11009944</o>
+    <o>7_807361</o>
+    <o>43_11009944</o>
+    <o>2_795455</o>
+    <o>45_11009944</o>
+    <o>48_11009944</o>
+    <o>51_11009944</o>
+    <o>73_11009944</o>
+    <o>71_11009944</o>
+    <o>77_11009944</o>
+    <o>82_11009944</o>
+  </path>
+  <style type="text/css">
+@font-face
+{
+	src: url('LiberationSerif-Bold.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('LiberationSerif-Regular.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('calluna-regular.swf');
+	fontFamily: body;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #333;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #288acc;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #111;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+Grid
+{
+	color: #ddd;
+}
+
+ZFrame.circle
+{
+	gradStartAlpha: 0.4;
+	thickness: 6;
+	gradStartColor: #e6e6e6;
+	gradEndColor: #999;
+	gradEndAlpha: 0.4;
+}
+
+ZFrame.bracket
+{
+	color: #000;
+	thickness: 10;
+	alpha: 0.15;
+}
+
+ZFrame.roundrect
+{
+	gradStartAlpha: 0.1;
+	gradStartColor: #000;
+	gradEndColor: #000;
+	radius: 14;
+	gradEndAlpha: 0.02;
+}
+
+ZFrame.invisible
+{
+	gradStartAlpha: 0.02;
+	gradEndColor: #000;
+	borderAlpha: 0.6;
+	gradStartColor: #000;
+	radius: 14;
+	borderColor: #5aa7cb;
+	gradEndAlpha: 0.3;
+}
+
+ZCurveLine
+{
+	color: #288acc;
+	thickness: 0;
+	alpha: 1;
+}
+
+ZArrow
+{
+	color: #288acc;
+	borderThickness: 0;
+	thickness: 8;
+	alpha: 1;
+	borderAlpha: 0.6;
+	borderColor: #fff;
+}
+
+ZMarker
+{
+	color: #288acc;
+	thickness: 25;
+	alpha: 0.3;
+}
+
+ZPath
+{
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+	alpha: 1;
+}
+
+ZPath Ball.base
+{
+	fillColor: #40abe6;
+	radius: 12;
+	alpha: 1;
+}
+
+ZPath Ball.mid
+{
+	fillColor: #40abe6;
+	radius: 8;
+	alpha: .5;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+ZLine
+{
+	color: #666;
+	alpha: 0.9;
+}
+
+</style>
+  <hash>add1a24e5a3f5626354dc4cd20c26c7c</hash>
+<sync><oid>qa378c7w8kgp</oid><hash>add1a24e5a3f5626354dc4cd20c26c7c</hash></sync><config>Rg3Uuq1fbrmJymW3dNEPvDgud8Fq5k0Zax1uSR7QVHcGjog5qYUngdOb4yV88gRgqlp245NqF/IvjsfC0thx5iE4Upk9RjaQQsEmTLWmZt7DCsXvvP+u9jRrg+pBsZgveLrl99YfsQdaN9XkzTmhQdiH2PdVw8scI2SpNMmoA13lCQVAoB3YIiZibAcOMHI1SvLSSQDftwHMB5qShGeBjHm4bRMk9aMfw73JRWb/ak9aE7ffPM+MGpD2JQAlhAc+mWijx4tqdSU2a9ChAN5KR9Y1VXE1lJLODtFXI1Ea6/aF55Imm3b0oEXDuDWwRvzjjUPQ6U8/TMXyH0cna3u6dg==</config></zuiprezi>
